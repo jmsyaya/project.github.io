@@ -1,0 +1,14 @@
+파일 commit하고 push하는 과정
+
+1. git pull  - 원격 저장소의 데이터를 로컬 저장소에 최신화
+2. git status - 로컬 작업 공간의 상태를 확인
+3. git diff - 수정된 파일의 내용을 확인
+4. git add  - 작업 사항을 스테이지에 추가
+5. git status - 상태 다시 한번 확인
+6. git commit - 커밋하기
+7. git status - 상태 다시 확인
+8. git push - 로컬 저장소에 있는 커밋을 원격 저장소에 Push
+
+
+
+Site : https://extbrain.tistory.com/155
