@@ -1,0 +1,5 @@
+10.27 
+
+FInished
+
+펭귄 Idle 상태, Walk 상태 완료.
